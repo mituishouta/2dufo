@@ -1,9 +1,9 @@
 {
 "TOTAL_MEMORY": 268435456,
-"dataUrl": "ufo.data.unityweb",
-"asmCodeUrl": "ufo.asm.code.unityweb",
-"asmMemoryUrl": "ufo.asm.memory.unityweb",
-"asmFrameworkUrl": "ufo.asm.framework.unityweb",
+"dataUrl": "ufogit.data.unityweb",
+"asmCodeUrl": "ufogit.asm.code.unityweb",
+"asmMemoryUrl": "ufogit.asm.memory.unityweb",
+"asmFrameworkUrl": "ufogit.asm.framework.unityweb",
 "graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
 "webglContextAttributes": {"preserveDrawingBuffer": false},
 "splashScreenStyle": "Dark",
